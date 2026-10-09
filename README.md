@@ -1,3 +1,3 @@
 # DB-Projekt-HS26
 
-Dies ist eine Änderung von jemand anderem.
+Hier ist eine neue Änderung für die Demo.
