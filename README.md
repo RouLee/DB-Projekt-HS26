@@ -1,3 +1,3 @@
 # DB-Projekt-HS26
 
-asdf
+Dies ist eine Änderung von jemand anderem.
